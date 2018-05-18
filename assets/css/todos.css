@@ -51,10 +51,10 @@ input {
     background-color: #f7f7f7;
     width: 100%;
     padding: 13px 13px 13px 20px;
-    box-sizing: border-box;
+    box-sizing: border-box; /*Makes text box to be within the container */
     color: #2980d9;
     border: 3px solid rgba(0, 0, 0, 0);
-    /*Make border invisible so it appears align with the li */
+    /*Make border invisible so it appears to be aligned with the li boxes */
 }
 
 .completed {
